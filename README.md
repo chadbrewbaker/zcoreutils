@@ -1,2 +1,4 @@
 # zcoreutils
 Zig coreutils
+
+wc
